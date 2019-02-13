@@ -1,7 +1,5 @@
 ---
 title: "Peer-graded Assignment: Prediction Assignment Writeup"
-author: "Yu Gan"
-date: "January 9, 2018"
 output: html_document
 ---
 ##Background
