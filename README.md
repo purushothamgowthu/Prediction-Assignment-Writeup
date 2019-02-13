@@ -1,2 +1,2 @@
 # Peer-graded-Assignment-Prediction-Assignment-Writeup
-This Github repo contains the R markdown and compiled HTML files discribing the analysis for the prediction assignment of practical machine learning course.
+github repository containing your .Rmd or .md file and your compiled HTML file performing your analysis.
